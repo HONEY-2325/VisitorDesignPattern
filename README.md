@@ -16,8 +16,8 @@ This project demonstrates the **Visitor design pattern** by separating operation
 
 Here,
 - 'A' represents abstract class.
-- 'C' represents concrete class/
-- 'I' represents interface class/
+- 'C' represents concrete class.
+- 'I' represents interface class.
 ![Module & Class diagram](ClassDiagram.png)
 
 # Environment
