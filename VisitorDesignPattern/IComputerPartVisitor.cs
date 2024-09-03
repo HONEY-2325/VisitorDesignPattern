@@ -1,4 +1,17 @@
-﻿using System;
+﻿/******************************************************************************
+ * Filename    = IComputerPartVisitor.cs
+ *
+ * Author      = Gagan Chandu Palla
+ *
+ * Product     = SoftwareDesignPatterns
+ * 
+ * Project     = VisitorPattern
+ *
+ * Description = Defines the visitor interface for the Visitor pattern.
+ *               Includes methods to visit different types of computer parts.
+ *****************************************************************************/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

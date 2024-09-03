@@ -1,4 +1,17 @@
-﻿using System;
+﻿/******************************************************************************
+ * Filename    = PriceVisitor.cs
+ *
+ * Author      = Gagan Chandu Palla
+ *
+ * Product     = SoftwareDesignPatterns
+ * 
+ * Project     = VisitorPattern
+ *
+ * Description = Concrete visitor that calculates the total price of computer parts.
+ *               Implements methods to handle each type of computer part.
+ *****************************************************************************/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

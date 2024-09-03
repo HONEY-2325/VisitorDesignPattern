@@ -1,3 +1,16 @@
+/******************************************************************************
+ * Filename    = VisitorDesignPatternTests.cs
+ *
+ * Author      = Gagan Chandu Palla
+ *
+ * Product     = SoftwareDesignPatterns
+ * 
+ * Project     = VisitorPattern
+ *
+ * Description = Contains unit tests for the Visitor pattern implementation.
+ *               Tests include price calculation and name collection for computer parts.
+ *****************************************************************************/
+
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
 using VisitorDesignPattern;

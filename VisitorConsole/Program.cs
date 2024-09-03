@@ -1,4 +1,18 @@
-﻿using VisitorDesignPattern;
+﻿/******************************************************************************
+ * Filename    = Program.cs
+ *
+ * Author      = Gagan Chandu Palla
+ *
+ * Product     = SoftwareDesignPatterns
+ * 
+ * Project     = VisitorPattern
+ *
+ * Description = Client code demonstrating the Visitor pattern with computer parts.
+ *               Initializes a list of computer parts and applies PriceVisitor
+ *               and NameVisitor to calculate total price and collect part names.
+ *****************************************************************************/
+
+using VisitorDesignPattern;
 using Monitor = VisitorDesignPattern.Monitor;
 
 namespace VisitorDesignPatternApp

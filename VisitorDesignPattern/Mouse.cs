@@ -1,4 +1,17 @@
-﻿using System;
+﻿/******************************************************************************
+ * Filename    = Mouse.cs
+ *
+ * Author      = Gagan Chandu Palla
+ *
+ * Product     = SoftwareDesignPatterns
+ * 
+ * Project     = VisitorPattern
+ *
+ * Description = Concrete implementation of a computer part (Mouse).
+ *               Implements the `Accept` method to accept a visitor.
+ *****************************************************************************/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
