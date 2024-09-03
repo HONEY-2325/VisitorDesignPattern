@@ -14,4 +14,11 @@ Visitor Design Pattern is a behavioral design pattern that allows you to separat
 
 This project demonstrates the **Visitor design pattern** by separating operations from the elements they act upon. It features a linked list navigator of computer parts (`Mouse`, `Keyboard`, `Monitor`) that allows external operations like calculating total price (`PriceVisitor`) or collecting part names (`NameVisitor`). The design is flexible and extensible, enabling new operations to be added without modifying the existing element classes.
 
-![Module & Class diagram](ModuleAndClassDiagram.jpeg)
+Here,
+- 'A' represents abstract class.
+- 'C' represents concrete class/
+- 'I' represents interface class/
+![Module & Class diagram](ClassDiagram.png)
+
+# Environment
+The project builds and runs with Visual Studio Community 2022 when the required workloads are installed.
